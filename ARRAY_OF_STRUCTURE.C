@@ -11,7 +11,7 @@ struct Aditya //  Structure Functioning
 int main() // main function
 {
     int i, n;
-    struct Aditya d[5];
+    struct delvin d[5];
     printf("<Welcome to Aditya's DBMS>");
     printf("\n Enter name, roll no. and marks Below ::     ");
     printf("Enter the no. of records\n");
