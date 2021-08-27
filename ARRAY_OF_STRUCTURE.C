@@ -2,7 +2,7 @@
 
 #include <stdlib.h> // Pre-Processive to include standard Libraray funtion header files
 
-struct Aditya //  Structure Functioning
+struct delvin //  Structure Functioning
 {
     char name[25]; // declared variable "name"with data type char along with size 20
     int rollno;    // declared variable "roll no"with data type int
